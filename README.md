@@ -1,1 +1,1 @@
-Deep Learning Do it yourself course; covered wide range of subjects: (Logistic regression, Data visualization, Convnets,NLP, and Reinforcement Learning).
+Deep Learning Do it yourself course; covered a wide range of subjects: (Logistic regression, Data visualization, Convnets, NLP, and Reinforcement Learning). Taught by Alexandre Sablayrolles, and Pierre Stock.
